@@ -18,4 +18,4 @@ This repository supports the final project for IS 547: Foundations of Data Curat
 All metadata and curatorial documentation is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Images are used with permission and are not included here.
 
 ## Contact
-For more info, visit [www.ivanajjarmon.com](https://www.ivanajjarmon.com)
+For more info, visit [www.ivanajjarmon.com]([https://www.ivanajjarmon.com](https://www.ivanajjarmon.com/black-women-photographers-a-chicago-exhibition))
